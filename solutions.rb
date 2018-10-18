@@ -1,5 +1,10 @@
 
+# Find the nearest square root of the given number
 
+    def nearest_sq(n)
+        # your code here
+        Math.sqrt(n).round ** 2
+    end
 
 
 #####################################################
